@@ -1,0 +1,16 @@
+# PyInstaller 빌드 결과물
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 편집기 / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
